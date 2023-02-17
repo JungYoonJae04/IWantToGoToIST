@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 from djitellopy import tello
-import KeyboardControl as kp
+import KeyPressModule as kp
 import time
 import datetime
 import threading
